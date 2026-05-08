@@ -70,6 +70,8 @@ Lors des tests sur émulateur, des problèmes d'écran blanc ont été rencontr�
 - Paramétrant des **DNS Google (8.8.8.8)**.
 - Activant le trafic HTTP via `usesCleartextTraffic="true"`.
 
+<img width="822" height="1048" alt="image" src="https://github.com/user-attachments/assets/9f7a4e5e-06b5-46eb-8fc6-4dbe5b04bc7d" />
+
 ---
 
 ## 6. Conclusion
